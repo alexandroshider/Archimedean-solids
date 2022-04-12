@@ -24,7 +24,8 @@ light_source {
 <0,1000, 1000>
 color	White} 
 
-background { color rgb< 1, 1, 1> }          
+background { color rgb< 1, 1, 1> }  
+        
 
 //Macro for finding displazement of a vertex on a arist for making the truncation
 #macro Found_inc(Angle)                     
