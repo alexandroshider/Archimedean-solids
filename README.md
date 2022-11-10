@@ -1,3 +1,6 @@
+# The 13 Archimedean Solids codes in POV-Ray
+## Closed
+
 In this repository I share how to make the 13 arquimedean solids 
 using the POV-Ray language. I also added a picture with each code 
 so you can see the picture before download the code. 
